@@ -1,0 +1,19 @@
+Requirements Document 
+1 Introduction
+The software product name is DoItBabe. This is todo list. The product stores, retrieves, deletes tasks. Priority tasks can be specially marked (by color). 
+2 User Requirements
+2.1 Software Interfaces
+This mobile-app for Android uses the embedded database SQLite.
+2.2 User Interfaces
+[mockups]
+2.3 User Characteristics
+The app is available for all users of any level of education, experience, technical competence: from children and students to serious people. 
+2.4 Assumptions and Dependencies
+If there is not enough memory, the application becomes to work incorrectly.
+3 System Requirements
+3.1 Functional Requirements
+1. The application should display the list of prioritised tasks. 
+2. Task priority can be set by the selected color. 
+3. User should have possibility to add, change, delete tasks. 
+3.2 Non-Functional Requirements
+3.2.1 Usability: Changing priority should be easy by color. E.g.if task is red - user should do it quickly. 
